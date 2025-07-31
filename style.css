@@ -202,10 +202,10 @@ p {
 }
 
 .hero-content {
-    display: grid;
-    grid-template-columns: 1fr 300px;
-    gap: 4rem;
+    display: flex;
+    justify-content: center;
     align-items: center;
+    text-align: center;
 }
 
 .hero-title {
@@ -235,23 +235,7 @@ p {
     flex-wrap: wrap;
 }
 
-.hero-image {
-    display: flex;
-    justify-content: center;
-}
 
-.profile-placeholder {
-    width: 250px;
-    height: 250px;
-    border-radius: 50%;
-    background: linear-gradient(135deg, var(--primary-color), var(--accent-color));
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: white;
-    font-size: 4rem;
-    box-shadow: var(--shadow-lg);
-}
 
 /* Section Styles */
 section {
@@ -658,9 +642,7 @@ section {
     }
 
     .hero-content {
-        grid-template-columns: 1fr;
         text-align: center;
-        gap: 2rem;
     }
 
     .hero-title {
