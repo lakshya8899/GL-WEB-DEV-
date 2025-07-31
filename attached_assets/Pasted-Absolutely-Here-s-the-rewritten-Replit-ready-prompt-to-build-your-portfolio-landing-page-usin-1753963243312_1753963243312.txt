@@ -1,0 +1,132 @@
+Absolutely! Here's the **rewritten Replit-ready prompt** to build your **portfolio landing page using plain HTML, CSS (no frameworks), and JavaScript** — not Vue.js.
+
+---
+
+## ✅ 💻 FULL PROMPT FOR PLAIN HTML/CSS/JS WEBSITE
+
+> Build a **responsive, single-page portfolio website** for **Lakshya Goyal**, a penultimate-year Bachelor of IT student at Macquarie University. Lakshya has completed **Certificate III, IV, and Diploma in IT Web Development** at TAFE. The website should be structured using **only HTML, CSS (no frameworks), and JavaScript**, and hosted on Replit. The design should be **clean, accessible, and mobile-friendly**.
+
+---
+
+### 1. **Home Section**
+
+**Purpose:** First impression
+**Content:**
+
+* Hero banner with name, profile image, and title: *“Aspiring Web Developer”*
+* Tagline: *“From TAFE to Tech: Passionate about full-stack development, sustainability, and user-first design.”*
+* Buttons: “View My Projects”, “Download Resume”, “Let’s Connect”
+
+---
+
+### 2. **About Me Section**
+
+**Purpose:** Showcase journey
+**Content:**
+
+* Timeline or paragraphs describing progression:
+
+  * **Cert III** – Basic HTML/CSS websites
+  * **Cert IV** – Front-end + basic back-end with PHP/MySQL
+  * **Diploma** – Full-stack (HTML, CSS, JS, PHP, MySQL)
+  * **Uni (BIT)** – Vue.js, APIs, backend security
+* Real-world experience: SAP Tech Solutions (Contractor)
+* Soft skills: fast learner, sustainability mindset, team player
+
+---
+
+### 3. **Projects Section**
+
+**Purpose:** Highlight TAFE work
+**Layout:** Use **tabs or collapsible accordions** by qualification level
+
+#### Cert III Projects
+
+* **Cakes for Sale** (HTML, CSS)
+* **Sorrento by the Sea** (HTML, CSS)
+
+#### Cert IV Projects
+
+* **Shoe Company Website** (HTML, CSS)
+* **Sunny Spot Holidays** (HTML, CSS, PHP, MySQL)
+
+#### Diploma Projects
+
+* **A2Z Recyclers** – One-page app (HTML, CSS, JS)
+* **SPA for Gelos** – Multi-page site (HTML, CSS, JS)
+* **Library System** – Full-stack (PHP, MySQL, JS)
+* **REST API** – Back-end project (Node or PHP)
+
+✅ Each project card must display:
+
+* Project name + description
+* Tech badges or list
+* GitHub link
+* Optional: Screenshot
+
+---
+
+### 4. **Professional Experience**
+
+**Purpose:** Show real job experience
+
+**Role:**
+**Full-Stack Developer (Contractor)**
+*SAP Tech Solutions | Mar 2025 – Jun 2025*
+
+**Details:**
+
+* Front-end: HTML, CSS, JavaScript
+* Back-end: PHP, Node.js, REST API
+* Features: Secure login with JWT, user roles, PHPMailer integration
+* Tools: Git, Agile workflow, code reviews
+* Result: Delivered secure production-ready business directory
+
+✅ Add tech tags:
+`HTML` `CSS` `JavaScript` `PHP` `Node.js` `REST API` `Git` `MongoDB`
+
+---
+
+### 5. **Resume Section**
+
+**Purpose:** Download + highlight resume
+**Content:**
+
+* “Download Resume” button (link to PDF)
+* Key points:
+
+  * Skills summary
+  * Education: TAFE + Macquarie
+  * SAP experience
+  * Contact info
+
+---
+
+### 6. **Contact Section**
+
+**Purpose:** Get in touch
+**Content:**
+
+* Contact form: Name, Email, Message (JS validation)
+* Email: `lakshya.goyal@students.mq.edu.au`
+* Social icons: GitHub + LinkedIn
+
+---
+
+### 7. **Optional Features (Enhancements)**
+
+* Light/Dark mode toggle (JS)
+* Smooth scroll + section transitions
+* Scroll-to-top button
+* Fully responsive with media queries (NO Bootstrap)
+
+---
+
+### 📁 Project Source
+
+Use project materials (images, screenshots, project files) from:
+🔗 [https://github.com/lakshya8899/Lakshya\_Goyal\_Portfolio](https://github.com/lakshya8899/Lakshya_Goyal_Portfolio)
+
+---
+
+Let me know when you're ready for the **HTML/CSS/JS file scaffold**, and I’ll generate a complete `index.html`, `style.css`, and `script.js` setup ready to paste into Replit.
