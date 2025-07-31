@@ -1,0 +1,170 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+/Resources <<
+/Font <<
+/F1 5 0 R
+>>
+>>
+>>
+endobj
+
+4 0 obj
+<<
+/Length 2000
+>>
+stream
+BT
+/F1 16 Tf
+50 750 Td
+(LAKSHYA GOYAL) Tj
+0 -30 Td
+/F1 12 Tf
+(Sydney, NSW | lakshya.goyal@students.mq.edu.au | +61 406 690 495) Tj
+0 -20 Td
+(GitHub: https://github.com/lakshya8899/Lakshya_Goyal_Portfolio) Tj
+
+0 -40 Td
+/F1 14 Tf
+(OBJECTIVE) Tj
+0 -20 Td
+/F1 10 Tf
+(Penultimate-year Bachelor of Information Technology student majoring in Web and App Development at) Tj
+0 -15 Td
+(Macquarie University, with strong academic progression from Cert III to Diploma in IT Web Development.) Tj
+0 -15 Td
+(Adept at building responsive, accessible, and secure full-stack applications using HTML, CSS, JavaScript,) Tj
+0 -15 Td
+(PHP, and Node.js. Passionate about using intuitive UI design and modern back-end technologies to support) Tj
+0 -15 Td
+(real-world problem-solving - especially in sustainability and logistics.) Tj
+
+0 -30 Td
+/F1 14 Tf
+(KEY SKILLS) Tj
+0 -20 Td
+/F1 12 Tf
+(Front-End:) Tj
+0 -15 Td
+/F1 10 Tf
+(• HTML5, CSS3, JavaScript \(ES6\), Bootstrap, Vue.js \(Foundations\)) Tj
+0 -12 Td
+(• Responsive UI design, accessibility, component-based SPA development) Tj
+
+0 -20 Td
+/F1 12 Tf
+(Back-End & Integration:) Tj
+0 -15 Td
+/F1 10 Tf
+(• PHP, Node.js, Express.js) Tj
+0 -12 Td
+(• REST API development and consumption) Tj
+0 -12 Td
+(• Authentication: JWT, 2FA, session management) Tj
+
+0 -20 Td
+/F1 12 Tf
+(Databases:) Tj
+0 -15 Td
+/F1 10 Tf
+(• MongoDB \(Atlas\), MySQL) Tj
+
+0 -20 Td
+/F1 12 Tf
+(Tools & Workflow:) Tj
+0 -15 Td
+/F1 10 Tf
+(• Git, GitHub, Postman, Swagger) Tj
+0 -12 Td
+(• Agile \(Scrum\), Unit Testing \(PHPUnit basics\), Linux CLI) Tj
+0 -12 Td
+(• PHPMailer \(email integration\)) Tj
+
+0 -30 Td
+/F1 14 Tf
+(EDUCATION) Tj
+0 -20 Td
+/F1 12 Tf
+(Bachelor of Information Technology \(Web & App Development Major\)) Tj
+0 -15 Td
+/F1 10 Tf
+(Macquarie University - Sydney, NSW) Tj
+0 -12 Td
+(Penultimate Year \(Expected: 2026\)) Tj
+
+0 -20 Td
+/F1 12 Tf
+(Certificate III, IV & Diploma in IT \(Web Development\)) Tj
+0 -15 Td
+/F1 10 Tf
+(TAFE NSW - Granville | 2023 - 2024) Tj
+0 -12 Td
+(• Focus: Front-end development, responsive UI, secure coding, real-world project delivery) Tj
+
+0 -30 Td
+/F1 14 Tf
+(PROFESSIONAL EXPERIENCE) Tj
+0 -20 Td
+/F1 12 Tf
+(Full-Stack Developer \(Contractor\)) Tj
+0 -15 Td
+/F1 10 Tf
+(SAP Tech Solutions | Sydney, NSW | Mar 2025 - Jun 2025) Tj
+0 -12 Td
+(• Delivered a secure, production-ready business directory platform) Tj
+0 -12 Td
+(• Built responsive front-end \(HTML, CSS, JS\) integrated with Node.js and PHP REST APIs) Tj
+0 -12 Td
+(• Implemented JWT/2FA authentication, email verification \(PHPMailer\), and real-time notifications) Tj
+0 -12 Td
+(• Collaborated in Agile sprints, Git-based workflows, and code reviews) Tj
+0 -12 Td
+(• Delivered maintainable, well-documented code and client-facing features) Tj
+
+ET
+endstream
+endobj
+
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+
+xref
+0 6
+0000000000 65535 f 
+0000000010 00000 n 
+0000000060 00000 n 
+0000000120 00000 n 
+0000000290 00000 n 
+0000002350 00000 n 
+trailer
+<<
+/Size 6
+/Root 1 0 R
+>>
+startxref
+2430
+%%EOF
