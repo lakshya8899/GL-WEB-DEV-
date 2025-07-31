@@ -538,9 +538,8 @@ section {
 }
 
 .contact-content {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 4rem;
+    display: flex;
+    justify-content: center;
     margin-bottom: 3rem;
 }
 
@@ -548,6 +547,8 @@ section {
     display: flex;
     flex-direction: column;
     gap: 2rem;
+    max-width: 600px;
+    width: 100%;
 }
 
 .contact-item {
@@ -583,64 +584,7 @@ section {
     color: var(--primary-color);
 }
 
-.contact-form {
-    background: white;
-    padding: 2rem;
-    border-radius: 1rem;
-    box-shadow: var(--shadow);
-}
 
-.form-group {
-    margin-bottom: 1.5rem;
-}
-
-.form-group label {
-    display: block;
-    margin-bottom: 0.5rem;
-    font-weight: 600;
-    color: var(--text-primary);
-}
-
-.form-group input,
-.form-group textarea {
-    width: 100%;
-    padding: 0.75rem;
-    border: 2px solid var(--border-color);
-    border-radius: 0.5rem;
-    font-size: 1rem;
-    transition: var(--transition);
-    font-family: inherit;
-}
-
-.form-group input:focus,
-.form-group textarea:focus {
-    outline: none;
-    border-color: var(--primary-color);
-}
-
-.social-links {
-    display: flex;
-    justify-content: center;
-    gap: 2rem;
-}
-
-.social-link {
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-    color: var(--text-secondary);
-    text-decoration: none;
-    font-weight: 600;
-    transition: var(--transition);
-}
-
-.social-link:hover {
-    color: var(--primary-color);
-}
-
-.social-link i {
-    font-size: 1.5rem;
-}
 
 /* Footer */
 .footer {
@@ -732,10 +676,7 @@ section {
         gap: 2rem;
     }
 
-    .contact-content {
-        grid-template-columns: 1fr;
-        gap: 2rem;
-    }
+
 
     .experience-header {
         flex-direction: column;
